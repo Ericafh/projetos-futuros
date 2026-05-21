@@ -3,10 +3,10 @@
 :root{
     --cor-de-fundo: #301d1d;
     --verde: #3c59c0;
-    --branco: #e4dddd;
+    --branco: #f3eded;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --texto-fundo: rgba(25, 24, 41, 0.3);
 }
 
 body {
